@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, soy Daniela Salguero</h1>
-<h3 align="center">Soy estudiante de Ingeniería de Sistemas.</h3>
+<h3 align="center">Soy estudiante de Ingeniería de Sistemas apasionada por la tecnología e innovación.</h3>
 
 - 🌱 Actualmente estoy estudiando *Inglés*
 
